@@ -1,1 +1,1 @@
-# Next.js + Tailwind CSS fuck
+# Next.js + Tailwind CSS
